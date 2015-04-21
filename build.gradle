@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.apache.directory.api:api-all:1.0.0-M29'
+    testCompile 'junit:junit:4.11'
+}
