@@ -2,3 +2,8 @@
 .idea
 build/
 *.iml
+*.iws
+*.ipr
+gradle/
+gradlew
+gradlew.bat
